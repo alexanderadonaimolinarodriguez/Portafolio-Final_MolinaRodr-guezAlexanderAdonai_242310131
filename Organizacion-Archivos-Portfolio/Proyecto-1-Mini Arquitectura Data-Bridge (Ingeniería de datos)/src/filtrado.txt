@@ -1,0 +1,2 @@
+ID|Mesa|Mesero|Platillo|Cantidad|PrecioUnitario|Total|Hora
+008|9|Zenqu|Tamales|3|20|60|15:20
